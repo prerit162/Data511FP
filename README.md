@@ -65,6 +65,9 @@
 ***
 
 # Datasets:
+https://ourworldindata.org/emissions-by-sector#annual-greenhouse-gas-emissions-by-sector
+(Tab0 Visualization2) Dont have 'food' specific for tab0 vis1
+
 https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks - Consumption of Beef, Pig, Poultry, Sheep from 1991-2026 in 48 countries
 
 https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production - Greenhouse gas emissions of various farm products (wheat, eggs, etc.)
@@ -81,7 +84,6 @@ https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021
 (Tab1-Visualization1, Tab1-Visualization2)
 
 https://essd.copernicus.org/preprints/essd-2021-228/essd-2021-228.pdf ????
-
 
 # Tools used:
 Python  v ???  
