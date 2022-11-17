@@ -42,7 +42,7 @@ We have explored multiple datasets and shortlisted the below-mentioned dataset:
 
 Dataset 1:
 
-Link: https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks to an external site.
+Link: https://www.kaggle.com/datasets/vagifa/meatconsumption Links to an external site.
 
 The worldwide meat consumption dataset, respectively named "meat_consumption_worldwide.csv" consists of 5 columns and 13761 rows (133KB). The columns are 'Location', 'subject', 'MEASURE', 'time', and 'Value.
 
