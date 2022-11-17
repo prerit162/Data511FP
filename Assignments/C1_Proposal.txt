@@ -1,0 +1,92 @@
+DATA 511 A C1: Visualization Concept Proposal
+
+Names of students involved
+Zachary Bowyer
+Prerit Chaudhary
+Sagnik Ghosal
+Raman S V
+Adithyaa V
+
+Project name: Cost and Availability Analysis of Diets
+ 
+Project concept and goals. What is the purpose of the visualization?
+Food affordability is an important determinant of food choice and access, driving dietary patterns, nutrition status, and overall health and environmental outcomes. Affordability remains a key barrier to accessing nutritious foods that make up healthy diets among the poorest segments of the population worldwide. To this end, we want to analyze the affordability and accessibility of food items across the globe and the impact of diets on the planet from a greenhouse gas emission standpoint.
+Specifically, we plan to analyze and illustrate diets from a cost and nutritional point of view, examine the greenhouse gas emissions of various countries, both historically and currently, and draw upon these observations to highlight, compare and contrast the ecological impact of food, agriculture, and husbandry with that of more traditional yet less reported sources of emissions such as private jets and sporting teams.
+The broader questions we are trying to answer are below:
+What are good diets? What is good – ecologically less emissive vs calorific value and nutrition.
+Where do they come from – the emission footprint analysis of producers and consumers.
+How do the emissions from food compare to those from traditionally direct fossil fuel usage sources?
+A description of the intended users and tasks. Remember to talk to REAL POTENTIAL USERS and include any data gathered from this research in your proposal. Proposed user personas and scenarios may be helpful here.
+For our project, the end users are everyone who consumes any sort of food as our primary purpose is to inform the general public about the nature of consumption of specific foods and how they impact the environment, economy, etc. To interview people to gather feedback on our dashboards, we plan on talking to three key demographics: those who consume meat regularly, those who are transitioning to vegetarianism/veganism, and longer-term vegetarians and vegans. From these interviews, we intend to glean insights into why people have specific food-consumption habits, which may help further refine what our final story will be. To extend it further, we are also currently considering interviewing climate and food industry workers or researchers from these domains to see if there are other nonintuitive aspects of this project that would be beneficial to explore.
+Discussion/links of related work if you know of any. Your projects should be original and hopefully, build on the work of others.
+John Hopkins University includes a section about the general impact of the food industry: https://www.foodsystemprimer.org/food-production/food-and-climate-change/Links to an external site.
+This academic paper shows greenhouse gas (GHG) and water footprints of nine increasingly plant-forward diets, aligned with criteria for a healthy diet, specific to 140 countries: https://clf.jhsph.edu/publications/country-specific-dietary-shifts-mitigate-climate-and-water-crisesLinks to an external site.
+Estimates long-term agricultural emissions under various mitigation policies: https://link.springer.com/article/10.1007/s10584-014-1104-5Links to an external site.
+This paper talks about how dietary trends may prove bad for the environment shortly. Additionally recommends alternative diets that are good for both individual and environmental health: https://www.nature.com/articles/nature13959Links to an external site.
+This article talks about an analysis of how the NBA bubble reduced the carbon footprint of teams by having them play in one place. While sports may not be essential, we want to explore the amount of coverage on the agricultural impact and compare that to famous events that might have a larger impact on our carbon footprint: https://www.scientificamerican.com/article/professional-sports-leagues-need-to-reduce-their-carbon-footprint/Links to an external site.
+Roles to be performed by team members (e.g. project manager, programmer, designer, usability evaluator, etc.)
+ 
+
+Name Role
+
+Zachary Bowyer: Data Engineering and schedule management
+Prerit Chaudhary: Data Engineering and project management
+Sagnik Ghosal: Primary visualization developer and documentation
+Raman S V: Data modelling and architect, QC and testing
+Adithyaa V: Programmer and user feedback
+
+ 
+
+What data will be used in the visualization. Profile the data, talk about what it contains, what the dimensions are, and how you intend to use it. Don't simply state the source of the data, but tell us a bit about what it contains!
+We have explored multiple datasets and shortlisted the below-mentioned dataset:
+
+Dataset 1:
+
+Link: https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks to an external site.
+
+The worldwide meat consumption dataset, respectively named "meat_consumption_worldwide.csv" consists of 5 columns and 13761 rows (133KB). The columns are 'Location', 'subject', 'MEASURE', 'time', and 'Value.
+
+For the first column, 'Location' is a categorical description of which specific country out of 48 is being looked at.
+The second column, 'subject' is another categorical column that determines what type of meat is being considered (Beef, Pig, Poultry, Sheep).
+Next, the 'Measure' column is a categorical column that describes the units of the 'Value' column (Kilograms per person annually or thousands of tons per region annually)
+The fourth column, 'time' is a categorical column that shows the year the data was recorded (1991-2026- which means there are some projections).
+Finally, the 'Value', column which is a regressive column, shows the meat consumption for that country, time, meat type, etc (0-131607.31).
+We intend to use this dataset to help identify how specific countries/regions have consumed meat products over time. It will likely be used in a colormap plot of the world's geography, where a continuous color scale of 'carbon footprint' will be used, which can be calculated from both food-related carbon facts and consumption rate data. Additionally, we can use this dataset to help tell the story of the '3rd world burden', which essentially shows that while 3rd world countries may have higher emissions, they consume less.
+
+Dataset 2:
+
+Link: https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-productionLinks to an external site.
+
+The environmental impact of the food production dataset contains information on different types of food (Wheat, Barley, Meat) and their greenhouse gas emissions per kg of food product (Kg CO2 - equivalents per kg product) across different stages in the lifecycle of food production. Some of the important columns are:
+
+Land use change - Kg CO2 - equivalents per kg product
+Animal Feed - Kg CO2 - equivalents per kg product
+Farm - Kg CO2 - equivalents per kg product
+Processing - Kg CO2 - equivalents per kg product
+Transport - Kg CO2 - equivalents per kg product
+Packaging - Kg CO2 - equivalents per kg product
+Retail - Kg CO2 - equivalents per kg product
+Dataset 3:
+
+Link:
+
+https://ourworldindata.org/agricultural-productionLinks to an external site.
+
+https://ourworldindata.org/meat-productionLinks to an external site.
+
+https://ourworldindata.org/fish-and-overfishingLinks to an external site.
+
+
+The datasets available on the above 3 links contain information for different types of food (Cereal, Wheat, Barley, Meat, Fish, etc) and the amount produced in tonnes by each country year on year from 1961-2020. The number of rows might vary for different foods but each CSV has 4 columns.
+
+Dataset 4:
+
+Link: https://ourworldindata.org/co2-emissionsLinks to an external site.
+
+The dataset contains information about Annual CO2 emissions for each country year on year from 1750-2020. The dataset has 66937 rows and 4 columns.
+
+Inference: With all the above links from Datasets 2, 3, and 4, we want to examine how much each country is producing different types of foods and use the emissions from each type of food to calculate overall greenhouse gas emissions via food production for target countries/regions. We intend to leverage this number to imply how it has impacted their annual greenhouse gas emissions over the last few years.
+
+ 
+What kinds of results you anticipate achieving and what kinds of results you would like to achieve but which you probably do not have the time or the tools for.
+Primarily, we want to first inform the users about the viability of their diets and help them understand why certain regions eat what they eat. We further want to analyze the carbon footprint of various nations/regions and highlight how looking at the current emissions might be doing an injustice to these nations as this ignores centuries of industrial growth and related emissions by the others. Further, we want to analyze the actual impact of agriculture and diets on carbon footprints and draw comparisons to the carbon footprints of the private elite, sports, and entertainment industries. We have doubts about if we would have enough data to accurately estimate the carbon footprint of billionaires and sports teams.
