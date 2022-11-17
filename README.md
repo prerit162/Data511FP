@@ -24,4 +24,4 @@ Microsoft PowerBI ???
 
 
 # Reference image from brainstorm/FSD activity:
-![image](../Data511FP/Images/FS_Sheet5.png)
+![image](./Images/FS_Sheet5.png)
