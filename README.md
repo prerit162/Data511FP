@@ -48,7 +48,7 @@
 * Bar chart
 --------------------------------------------------------------------------------
 ## __Operations:__
-* Static tab:
+* Static tab (Tab0):
     *  Visualization1
     *  Visualization2
     *  Visualization3
@@ -66,6 +66,17 @@
 
 # Datasets:
 https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks - Consumption of Beef, Pig, Poultry, Sheep from 1991-2026 in 48 countries
+
+https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production - Greenhouse gas emissions of various farm products (wheat, eggs, etc.)
+
+https://ourworldindata.org/agricultural-production - Crop production from 1961-2020
+
+https://ourworldindata.org/meat-production - Meat production from 1961-2020
+
+https://ourworldindata.org/fish-and-overfishing  - Fish production from 1961-2020  
+
+https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021 
+(Tab1-Visualization1, Tab1-Visualization2)
 
 # Tools used:
 Python  v ???  

@@ -55,7 +55,7 @@ We intend to use this dataset to help identify how specific countries/regions ha
 
 Dataset 2:
 
-Link: https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-productionLinks to an external site.
+Link: https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production Links to an external site.
 
 The environmental impact of the food production dataset contains information on different types of food (Wheat, Barley, Meat) and their greenhouse gas emissions per kg of food product (Kg CO2 - equivalents per kg product) across different stages in the lifecycle of food production. Some of the important columns are:
 
@@ -66,22 +66,23 @@ Processing - Kg CO2 - equivalents per kg product
 Transport - Kg CO2 - equivalents per kg product
 Packaging - Kg CO2 - equivalents per kg product
 Retail - Kg CO2 - equivalents per kg product
+
 Dataset 3:
 
 Link:
 
-https://ourworldindata.org/agricultural-productionLinks to an external site.
+https://ourworldindata.org/agricultural-production Links to an external site.
 
-https://ourworldindata.org/meat-productionLinks to an external site.
+https://ourworldindata.org/meat-production Links to an external site.
 
-https://ourworldindata.org/fish-and-overfishingLinks to an external site.
+https://ourworldindata.org/fish-and-overfishing Links to an external site.
 
 
 The datasets available on the above 3 links contain information for different types of food (Cereal, Wheat, Barley, Meat, Fish, etc) and the amount produced in tonnes by each country year on year from 1961-2020. The number of rows might vary for different foods but each CSV has 4 columns.
 
 Dataset 4:
 
-Link: https://ourworldindata.org/co2-emissionsLinks to an external site.
+Link: https://ourworldindata.org/co2-emissions Links to an external site.
 
 The dataset contains information about Annual CO2 emissions for each country year on year from 1750-2020. The dataset has 66937 rows and 4 columns.
 
