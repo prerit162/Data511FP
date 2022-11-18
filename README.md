@@ -88,8 +88,10 @@ https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset - Consituent
 https://essd.copernicus.org/preprints/essd-2021-228/essd-2021-228.pdf ????
 
 https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=env-data-en&doi=data-00735-en Massive CO2 dataset
+(Tab0 vis 1)
 
 https://corgis-edu.github.io/corgis/csv/food/ Food Constituents Dataset
+(Tab2 vis1, tab2 vis2)
 
 https://corgis-edu.github.io/corgis/csv/emissions/ Emissions based on Power, Travel, Building and other sectors
 
