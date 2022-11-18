@@ -91,6 +91,8 @@ https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=env-data-en&doi=data-00735-en
 
 https://corgis-edu.github.io/corgis/csv/food/ Food Constituents Dataset
 
+https://corgis-edu.github.io/corgis/csv/emissions/ Emissions based on Power, Travel, Building and other sectors
+
 # Tools used:
 Python  v ???  
 Tableau Prep Builder  ??  
