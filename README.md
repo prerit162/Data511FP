@@ -83,6 +83,8 @@ https://ourworldindata.org/fish-and-overfishing  - Fish production from 1961-202
 https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021 
 (Tab1-Visualization1, Tab1-Visualization2)
 
+https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset - Consituent for each type of food
+
 https://essd.copernicus.org/preprints/essd-2021-228/essd-2021-228.pdf ????
 
 https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=env-data-en&doi=data-00735-en Massive CO2 dataset
