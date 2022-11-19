@@ -93,6 +93,8 @@ https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=env-data-en&doi=data-00735-en
 https://corgis-edu.github.io/corgis/csv/food/ Food Constituents Dataset
 (Tab2 vis1, tab2 vis2)
 
+https://ourworldindata.org/emissions-by-sector - Greenhouse Emissions by Sector (Analysis by Prerit)
+
 https://corgis-edu.github.io/corgis/csv/emissions/ Emissions based on Power, Travel, Building and other sectors
 
 # Tools used:
