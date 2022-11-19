@@ -66,7 +66,7 @@
 
 # Datasets:
 https://ourworldindata.org/emissions-by-sector#annual-greenhouse-gas-emissions-by-sector
-(Tab0 Visualization2) Dont have 'food' specific for tab0 vis1
+(Tab0 Visualization2) Dont have 'food' specific for tab0 vis1      (Analysis: Adithyaa)
 
 https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks - Consumption of Beef, Pig, Poultry, Sheep from 1991-2026 in 48 countries
 
@@ -74,14 +74,14 @@ https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production 
 (Tab2 Visualization3)
 
 https://ourworldindata.org/agricultural-production - Crop production from 1961-2020
-(Tab2 Visualization3)
+(Tab2 Visualization3)                        
 
 https://ourworldindata.org/meat-production - Meat production from 1961-2020
 
 https://ourworldindata.org/fish-and-overfishing  - Fish production from 1961-2020  
 
 https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021 
-(Tab1-Visualization1, Tab1-Visualization2)
+(Tab1-Visualization1, Tab1-Visualization2) (Analysis: Adithyaa)
 
 https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset - Consituent for each type of food
 
