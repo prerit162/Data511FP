@@ -97,8 +97,8 @@ https://ourworldindata.org/emissions-by-sector - Greenhouse Emissions by Sector 
 
 https://corgis-edu.github.io/corgis/csv/emissions/ Emissions based on Power, Travel, Building and other sectors
 
-Tab0 Vis1 - ghg_emissions_final.csv (Prerit)  
-Tab0 Vis2  
+Tab0 Vis1 
+Tab0 Vis2 - ghg_emissions_final.csv (Prerit)   
 Tab0 Vis3  
 Tab1 Vis1  
 Tab1 Vis2  
@@ -106,7 +106,7 @@ Tab2 Vis1
 Tab2 vis2  
 Tab2 Vis3 - FoodProductionTimeSeriesC02Impact.csv - Zachary Bowyer  
 Tab3 Vis1  
-  
+
 # Tools used:
 Python  v ???  
 Tableau Prep Builder  ??  
