@@ -65,10 +65,19 @@
 ***
 
 # Datasets:
+https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=env-data-en&doi=data-00735-en Massive CO2 dataset
+(Tab0 vis 1)
+
 https://ourworldindata.org/emissions-by-sector#annual-greenhouse-gas-emissions-by-sector
 (Tab0 Visualization2) Dont have 'food' specific for tab0 vis1      (Analysis: Adithyaa)
 
+https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021 
+(Tab1-Visualization1, Tab1-Visualization2) (Analysis: Adithyaa)
+
 https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks - Consumption of Beef, Pig, Poultry, Sheep from 1991-2026 in 48 countries
+
+https://corgis-edu.github.io/corgis/csv/food/ Food Constituents Dataset
+(Tab2 vis1, tab2 vis2)
 
 https://www.kaggle.com/datasets/selfvivek/environment-impact-of-food-production - Greenhouse gas emissions of various farm products (wheat, eggs, etc.)
 (Tab2 Visualization3) - Zachary bowyer data fusion into FoodProductionTimeSeriesCO2Impact.csv
@@ -80,22 +89,24 @@ https://ourworldindata.org/meat-production - Meat production from 1961-2020
 
 https://ourworldindata.org/fish-and-overfishing  - Fish production from 1961-2020  
 
-https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021 
-(Tab1-Visualization1, Tab1-Visualization2) (Analysis: Adithyaa)
-
 https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset - Consituent for each type of food
 
 https://essd.copernicus.org/preprints/essd-2021-228/essd-2021-228.pdf ????
 
-https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=env-data-en&doi=data-00735-en Massive CO2 dataset
-(Tab0 vis 1)
-
-https://corgis-edu.github.io/corgis/csv/food/ Food Constituents Dataset
-(Tab2 vis1, tab2 vis2)
 
 https://ourworldindata.org/emissions-by-sector - Greenhouse Emissions by Sector (Analysis by Prerit)
 
 https://corgis-edu.github.io/corgis/csv/emissions/ Emissions based on Power, Travel, Building and other sectors
+
+Tab0 Vis1
+Tab0 Vis2
+Tab0 Vis3
+Tab1 Vis1
+Tab1 Vis2
+Tab2 Vis1
+Tab2 vis2
+Tab2 Vis3 - FoodProductionTimeSeriesC02Impact.csv - Zachary Bowyer
+Tab3 Vis1
 
 # Tools used:
 Python  v ???  
