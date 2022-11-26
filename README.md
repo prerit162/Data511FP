@@ -77,6 +77,7 @@ https://ourworldindata.org/co2-emissions - CO2 emissions per country 1750-2021
 https://www.kaggle.com/datasets/vagifa/meatconsumptionLinks - Consumption of Beef, Pig, Poultry, Sheep from 1991-2026 in 48 countries
 
 https://corgis-edu.github.io/corgis/csv/food/ Food Constituents Dataset
+https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset - Consituent for each type of food
 (Tab2 vis1, tab2 vis2)
 
 ---  
@@ -92,7 +93,6 @@ https://ourworldindata.org/meat-production - Meat production from 1961-2020
 
 https://ourworldindata.org/fish-and-overfishing  - Fish production from 1961-2020  
 
-https://www.kaggle.com/datasets/shrutisaxena/food-nutrition-dataset - Consituent for each type of food
 
 https://essd.copernicus.org/preprints/essd-2021-228/essd-2021-228.pdf ????
 
@@ -105,7 +105,7 @@ Tab0 Vis2 - ghg_emissions_final.csv (Prerit)
 Tab0 Vis3 - ?  
 Tab1 Vis1 - Adi  
 Tab1 Vis2 - Adi   
-Tab2 Vis1 - zach  
+Tab2 Vis1 - CowWheatPigGoatChickenConsumption2015.csv, ? zach  
 Tab2 vis2 - zach  
 Tab2 Vis3 - FoodProductionTimeSeriesC02Impact.csv - Zachary Bowyer    
 Tab3 Vis1 - ?  
