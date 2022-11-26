@@ -105,9 +105,9 @@ Tab0 Vis2 - ghg_emissions_final.csv (Prerit)
 Tab0 Vis3 - ?  
 Tab1 Vis1 - Adi  
 Tab1 Vis2 - Adi   
-Tab2 Vis1 - CowWheatPigGoatChickenConsumption2015.csv, ? zach  
-Tab2 vis2 - zach  
-Tab2 Vis3 - FoodProductionTimeSeriesC02Impact.csv - Zachary Bowyer    
+Tab2 Vis1 - CowWheatPigGoatChickenConsumption2015.csv, Constituents.csv -zach  
+Tab2 vis2 - CowWheatPigGoatChickenConsumption2015.csv, Constituents.csv -zach  
+Tab2 Vis3 - FoodProductionTimeSeriesC02Impact.csv - zach  
 Tab3 Vis1 - ?  
 
 # Tools used:
