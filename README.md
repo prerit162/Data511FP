@@ -1,5 +1,10 @@
 # Data511FP - Final project for data 511 - Interactive Dashboard
 
+
+# C4 google doc link  
+https://docs.google.com/document/d/1OrACKUFmM3d_5-H0DpGbdmSI6JW3DUzfk_9E0Czu-IY/edit?usp=sharing  
+
+
 # Link to hosted dashboard here:
 
 # Dashboard explained: 
