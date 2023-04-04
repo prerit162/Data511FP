@@ -11,6 +11,12 @@ Given this background, our goals for this project were the following –
 ![image](./Images/Dashboard_View1.png)
 
 # Reference image from brainstorm/FSD activity:
+![image](./Images/Emissions.png)
+
+# Reference image from brainstorm/FSD activity:
+![image](./Images/Events_Emissions.png)
+
+# Reference image from brainstorm/FSD activity:
 ![image](./Images/Dashboard_View2.png)
 
 # Reference image from brainstorm/FSD activity:
