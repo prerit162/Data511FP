@@ -1,6 +1,7 @@
 # Data511FP - Final project for data 511 - Interactive Dashboard
 
-Our interactive dashboard outlines the environmental impacts of food production through a comparative analysis of cost, nutritional value and emissions of different constituent of food
+Our interactive dashboard outlines the environmental impacts of food production through a comparative analysis of cost, nutritional value and emissions of different constituent of food.
+
 Dashboard - https://app.powerbi.com/groups/me/reports/6be9567e-14e6-44de-833c-668fc6fb5836/ReportSection707dbe840ad5e6c4279d
 
 # Reference image from brainstorm/FSD activity:
