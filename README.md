@@ -4,16 +4,13 @@ Our interactive dashboard outlines the environmental impacts of food production 
 
 Dashboard - https://app.powerbi.com/groups/me/reports/6be9567e-14e6-44de-833c-668fc6fb5836/ReportSection707dbe840ad5e6c4279d
 
-# Reference image from brainstorm/FSD activity:
+# Reference images from dashboard:
 ![image](./Images/Dashboard_View1.png)
 
-# Reference image from brainstorm/FSD activity:
 ![image](./Images/Emissions.png)
 
-# Reference image from brainstorm/FSD activity:
 ![image](./Images/Events_Emissions.png)
 
-# Reference image from brainstorm/FSD activity:
 ![image](./Images/Dashboard_View2.png)
 
 # Reference image from brainstorm/FSD activity:
